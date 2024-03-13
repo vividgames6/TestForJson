@@ -1,1 +1,17 @@
-
+[
+  {
+    "m_Name": "Save Girl Helicopter Escape",
+    "m_Descirption": "a",
+    "m_AndroidUrl": "",
+    "m_IOSUrl": "https://apps.apple.com/ma/app/save-girl-helicopter-escape/id1625057546",
+    "m_PackageID": "com.usama.nawaz.airplane.flight.simulator",
+    "m_ImageUrls": [
+      "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon01.jpg?raw=1",
+      "https://github.com/vividgames6/ExtremeJackalsIOS/blob/main/Icon01_01.jpg?raw=1"
+    ],
+    "m_Probability": {
+      "m_ChanceWeight": 100
+    },
+    "m_ColorTheme": "#06d0eb"
+  }
+]
